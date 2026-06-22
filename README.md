@@ -2,8 +2,7 @@ Project setup for SDL using Cmake.
 
 How to compile:
   clone the repo:
-    git clone https://github.com/Mahogany-Hardwood/SDL_Template.git
-    cd SDL_Template
+    git clone https://github.com/Mahogany-Hardwood/SDL_Template.git && cd SDL_Template
 
   compile the source:
     cmake -S . -B build && cmake --build build
